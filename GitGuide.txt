@@ -1,0 +1,31 @@
+Git Guide 		Clodagh Canavan 		C00333603 
+
+[git init] 
+Makes the folder you are currently in a local Git repository. 
+
+[git add <filename>] 
+Stages specified files (in place of <>)  for use in next commit. 
+
+[git status] 
+Shows details of current local repository.
+
+[git commit] 
+Takes a snapshot of staged files in repository, they can be accessed later in time. 
+
+[git remote] 
+Tells git where to push local repository up to online.
+
+[git push] 
+Pushes all local commits since last push to online repository. 
+
+[git branch] 
+Lists all local branches, if a name is specified creates a new branch without switching to it.
+
+[git checkout] 
+Manages branches with functions like switching, adding and removing. 
+
+[git merge] 
+Merges 2 branches into 1. 
+
+[git config] 
+Changes options git uses to complete task, e.g name and email it pushes commits under. Like a settings function for git. 
